@@ -1,6 +1,6 @@
 cask "pocket-chief" do
-  version "2.1.2"
-  sha256 "d2a847363bff34e5ac108cdfb3e3cc971e9b383cc87eec40c1df5f417beb2e02"
+  version "2.1.3"
+  sha256 "a003b44534f7bcd5909d4c708a71cd36796c49f2e113f567a9c6c29d4c377a8b"
 
   url "https://updates.starwish.co.nz/direct/production/native/arm64/#{version}/Pocket-Chief-#{version}-mac-arm64.dmg"
   name "Pocket Chief"
